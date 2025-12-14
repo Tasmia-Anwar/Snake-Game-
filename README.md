@@ -56,22 +56,7 @@ The game includes a grid-based movement system, scoring mechanism, pause/resume 
 * A **ContextMenuStrip** is used as a settings menu to change colors.
 * Double buffering is enabled to reduce flickering.
 
----
 
-##  Project Structure
-
-```
-Snake_Game/
-│
-├── Form1.cs                # Main game logic
-├── Form1.Designer.cs       # UI design
-├── Program.cs              # Application entry point
-├── Resources/              # Images & icons
-├── Snake_Game.exe          # Executable file
-└── README.md               # Project documentation
-```
-
----
 
 
 
